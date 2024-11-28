@@ -227,4 +227,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for the Open Table app]([https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-open-table-app))
+[Check out the Product Page and Pricing and more for the Open Table app]((https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-open-table-app))
